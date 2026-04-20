@@ -83,6 +83,8 @@ public/         # Static assets
 3. Click color swatches to copy values in your preferred format.
 4. Use the `Export` section to copy the palette in the format you need.
 
+<img width="1735" height="1079" alt="Ekran görüntüsü 2026-04-20 140745" src="https://github.com/user-attachments/assets/578b2363-cc09-48e7-9738-0f963eafc390" />
+
 ## Notes
 
 - This project is a client-side color utility, so it does not require a separate backend service.
